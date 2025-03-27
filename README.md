@@ -29,13 +29,21 @@ The system is designed for educational purposes, human-computer interaction expe
 
 ### Binary Mapping
 
-| Finger       | Binary Value |
-|--------------|--------------|
-| Thumb        | 2⁰ (1)        |
-| Index        | 2¹ (2)        |
-| Middle       | 2² (4)        |
-| Ring         | 2³ (8)        |
-| Pinky        | 2⁴ (16)       |
+| Finger (Left Hand) | Binary Value |
+|---------------------|--------------|
+| Thumb               | 2⁰ (1)        |
+| Index               | 2¹ (2)        |
+| Middle              | 2² (4)        |
+| Ring                | 2³ (8)        |
+| Pinky               | 2⁴ (16)       |
+
+| Finger (Right Hand)  | Binary Value |
+|---------------------|--------------|
+| Thumb               | 2⁵ (32)       |
+| Index               | 2⁶ (64)       |
+| Middle              | 2⁷ (128)      |
+| Ring                | 2⁸ (256)      |
+| Pinky               | 2⁹ (512)      |
 
 Example: If your index and pinky fingers are up, the number shown is `2 + 16 = 18`.
 
@@ -56,3 +64,4 @@ Example: If your index and pinky fingers are up, the number shown is `2 + 16 = 1
 ```bash
 git clone https://github.com/yourusername/Hand2Binary.git
 cd Hand2Binary
+```
