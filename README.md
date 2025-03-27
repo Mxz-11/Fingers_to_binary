@@ -2,7 +2,7 @@
 A real-time computer vision system that detects the number you're showing with your hand—interpreting it directly in **binary** using MediaPipe and OpenCV.
 
 <h1 align="center">
-  <img src="https://media.tenor.com/B0TpnxBm35UAAAAC/supersmashbros-countdown.gif" alt="Binary Countdown GIF">
+  <img src="https://media.giphy.com/media/glJdAXojfP3wPEg84a/giphy.gif" alt="Binary Countdown GIF">
 </h1>
 
 ---
