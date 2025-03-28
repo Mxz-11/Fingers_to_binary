@@ -61,5 +61,5 @@ Example: If your index and pinky fingers are up, the number shown is `2 + 16 = 1
 1. Clone this repo:
 ```bash
 git clone https://github.com/Mxz-11/Fingers_to_binary.git
-cd Hand2Binary
+cd Fingers_to_binary
 ```
