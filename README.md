@@ -51,9 +51,7 @@ Example: If your index and pinky fingers are up, the number shown is `2 + 16 = 1
 
 ## Project Structure
 
-📁 `hand2binary.py` — Main script for hand tracking and binary interpretation  
-📁 `utils.py` — Helper functions for finger detection and visualization  
-📁 `assets/` — Optional images or reference diagrams  
+📁 `fingers_to_binary.ipynb` — Main script for hand tracking and binary interpretation  
 📁 `README.md` — This file :)
 
 ---
