@@ -1,4 +1,4 @@
-# Hand2Binary
+# Fingers_to_binary
 A real-time computer vision system that detects the number you're showing with your hand—interpreting it directly in **binary** using MediaPipe and OpenCV.
 
 <h1 align="center">
